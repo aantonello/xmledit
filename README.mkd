@@ -1,9 +1,17 @@
 xml-plugin
 ==========
-Maintainer: Devin Weaver <suki@tritarget.org>  
-Source: <http://github.com/sukima/xmledit>  
-Homepage: <http://www.vim.org/scripts/script.php?script_id=301>  
-Version: 1.10.5
+
+This is my fork of Xml-Edit plugin.
+
+This plugin appears to have no updates for a long time. But I think there are some improvements to do.
+
+- Original Maintainer: [Devin Weaver](<suki@tritarget.org>)
+- Original Source: [<http://github.com/sukima/xmledit>]
+- Vim script: [<http://www.vim.org/scripts/script.php?script_id=301>]
+
+Version: 1.10.6
+
+Below is the original `README` information.
 
 [![Build Status](https://travis-ci.org/sukima/xmledit.png?branch=master)](https://travis-ci.org/sukima/xmledit)
 
@@ -14,8 +22,7 @@ Licence
 -------
 This program is free software; you can redistribute it
 and/or modify it under the terms of the GNU General Public
-License.  
-See <http://www.gnu.org/copyleft/gpl.txt>
+License. See <http://www.gnu.org/copyleft/gpl.txt>
 
 Install
 -------
